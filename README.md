@@ -10,4 +10,4 @@
   * Use Flask to create routes for API data 
   * Specific queries for user vacation date range 
   * Create dictionaries of API data and convert to JSON format
-  * Perform t-test to determine statistical significance 
+  * Perform t-test to determine statistical significance of difference in group averages
